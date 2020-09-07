@@ -1,6 +1,6 @@
 ### ☺️ Cute pet
 
-![](https://github.com/zoo-js/zoo/blob/master/assets/zoo.PNG?raw=true)
+![](https://github.com/zoo-js/zoo/blob/master/assets/pets.png?raw=true)
 
 ### 💖 Do you want to adopt?
 
